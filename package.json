@@ -1,0 +1,14 @@
+{
+  "name": "sh-ui-toolkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fortawesome": "git+ssh://git@github.com:coolcorexix/fortawesome.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
